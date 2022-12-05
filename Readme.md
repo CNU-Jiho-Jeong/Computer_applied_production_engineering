@@ -1,4 +1,4 @@
-# 학기말 프로젝트 정리
+# 프로젝트 정리
 
 ### 1. 실험조건
 ![image](https://user-images.githubusercontent.com/108641325/205651220-c538f950-54aa-44fc-9d3c-a847421e30cc.png)
