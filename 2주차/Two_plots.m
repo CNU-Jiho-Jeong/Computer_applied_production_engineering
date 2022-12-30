@@ -12,7 +12,7 @@ figure('name', '[Step]', 'units', 'points', 'position', [10 10 400 400])
 
 plot(t,y,'k-','LineWidth',2) % 검은색 실선
 grid on % 현재 좌표축의 주 그리드 선을 표시
-hold on % 기존 플롯 유지 상태 끄기
+hold on % 기존 플롯을 유지한다!
 plot(t,y*2,'r:','LineWidth',2) % 빨간색 점선 형태
 hold off
 legend('line1', 'line2')
