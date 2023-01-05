@@ -13,58 +13,62 @@ ex) load('dataset2.mat');
 
 
 ### 3. 합, 평균, 분산, 표준편차, 최솟값, 최댓값, 크기
->> a = [1 2 3 4 5];
 
->> sum(a)
+a = [1 2 3 4 5];
+
+---
+
+sum(a)
 
 ans =
 
     15
 	
+---
 
-
->> mean(a)
+mean(a)
 
 ans =
 
      3
 
+---
 
-
->> var(a) (분산)
+var(a) (분산)
 
 ans =
 
     2.5000
 	
-	
+---	
 
->> std(a) (표준편차)
+std(a) (표준편차)
 
 ans =
 
     1.5811
 	
-	
+---	
 
->> min(a)
+min(a)
 
 ans =
 
      1
 	 
+---
 
-
->> max(a)
+max(a)
 
 ans =
 
      5
 	 
+---
 
-
->> size(a)
+size(a)
 
 ans =
 
      1     5  (1줄 / 5개 요소)
+     
