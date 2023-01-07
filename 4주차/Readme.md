@@ -14,3 +14,11 @@
 ### 3. 적분기(integrator)
 
 - 입력된 함수의 적분을 구한다. 
+
+### 4. To Workspace
+
+- Simulink에서 실행되어 생성된 데이터를 workspace(작업공간)에 저장해준다.
+
+### 5. From Wrokspace
+
+- From Workspace 블록은 작업 공간에서 Simulink 모델로 데이터를 읽어 들인 후 블록 출력에서 신호로 데이터를 제공한다.
