@@ -51,8 +51,33 @@
 ![image](https://user-images.githubusercontent.com/108641325/211256739-24655f05-a19e-4da8-8c21-ed0f8a565efc.png)
 
 
+### 5. 정상상태 응답
+
+- 어떤 계(系)나 회로 또는 그 구성 요소로의 **입력이 어느 일정값을 취했을 때** 그에 대하여 계나 회로, 또는 요소가 **궁극적으로 취하는 정상적인 상태**를 말한다. <전자용어사전>
+
+### 6. 과도응답
+
+- 일반적으로 **입력의 임의의 시간적 변화에 대하여** 계(系)의 **출력이 정상상태에 이르기까지의 경과상황**을 말한다. <전자용어사전>
+
+<img src = "https://user-images.githubusercontent.com/108641325/211262548-2d54f8ff-d4f7-4eb9-912d-affcfbd3fc5a.png" height="300px" width="400px">
+
+### 7. Homework
+
+<img src = "https://user-images.githubusercontent.com/108641325/211263573-79f533ba-fd0a-4e2d-b340-6d1d7c2cbdbc.png" height="500px" width="500px">
+
+- '전압'과 '정상 상태 속도'의 관계: **비례관계** (위 그림에서 두 번째 식, 그러니까 정상상태일 때의 식 참조.)
+- '댐핑', 'back emf 상수', '토크 상수, '저항'과 '정상 상태 속도'는 **반비례**한다(위 그림에서 두 번째 식, 그러니까 정상상태일 때의 식 참조.)
+- '저항'과 '과도응답'
+
+
+
 ---
 
 - 출처
+
 http://www.ktword.co.kr/test/view/view.php?m_temp1=1334
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=goldfinal&logNo=221357906192
+
+https://cnumsc.wixsite.com/cnumsc
 
