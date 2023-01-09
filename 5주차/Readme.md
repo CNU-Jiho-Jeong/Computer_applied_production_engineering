@@ -65,15 +65,39 @@
 
 <img src = "https://user-images.githubusercontent.com/108641325/211263573-79f533ba-fd0a-4e2d-b340-6d1d7c2cbdbc.png" height="500px" width="500px">
 
-- '전압'과 '정상 상태 속도'의 관계: **비례관계** (위 그림에서 두 번째 식, 그러니까 정상상태일 때의 식 참조.)
-- '댐핑', 'back emf 상수', '토크 상수, '저항'과 '정상 상태 속도'는 **반비례**한다(위 그림에서 두 번째 식, 그러니까 정상상태일 때의 식 참조.)
-- '저항'과 '과도응답'
+- '전압'과 '정상 상태 속도'는 **비례**한다. (위 그림에서 두 번째 식, 그러니까 정상상태일 때의 식 참조.)
 
+- '댐핑', 'back emf 상수', '토크 상수, '저항'과 '정상 상태 속도'는 **반비례**한다(위 그림에서 두 번째 식, 그러니까 정상상태일 때의 식 참조.)
+  - back emf 상수 = 토크 상수
+
+- '저항', '관성'과 '과도응답'은 **비례**한다. 
+  
+  => '전압'은 '저항'에 비례하므로, '전압'은 '과도응답'에 **비례**한다.
+
+- '토크 상수', 'back emf 상수'(토크 상수와 back emf 상수는 서로 같다), '댐핑'은 과도응답과 **반비례**한다.
+
+---
+
+참고(아래 그래프들을 토대로 각각의 파라미터의 변화에 따라 과도응답이 어떻게 변하는지 알 수 있다.)
+
+**1. 기존 그래프**
+
+<img src = "https://user-images.githubusercontent.com/108641325/211300791-787f4d3c-4b1b-451d-b74e-e7ccda65ba33.png" height="400px" width="400px">
+
+
+**2. 과도응답이 짧은 경우**
+
+<img src = "https://user-images.githubusercontent.com/108641325/211301430-e990afe2-2ecb-4948-b677-1e221d33e8df.png" height="400px" width="400px">
+
+
+**3. 과도응답이 긴 경우**
+
+<img src = "https://user-images.githubusercontent.com/108641325/211301071-e3374496-3ca3-4bbc-8a87-aa21f0108ab8.png" height="400px" width="400px"> 
 
 
 ---
 
-- 출처
+출처
 
 http://www.ktword.co.kr/test/view/view.php?m_temp1=1334
 
