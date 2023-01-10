@@ -102,17 +102,17 @@
 
 **(아래 그래프들은 '댐핑', 'back emf 상수', '토크 상수, '저항' 을 키웠을 때 볼 수 있는 그래프들이다. 이를 통해 이들이 정상 상태 속도와 반비례함을 알 수 있다.)**
 
-1. 저항을 키울 때
+**1. 저항을 키울 때**
 
 <img src = "https://user-images.githubusercontent.com/108641325/211494607-80e649d2-0bd5-4424-8612-dff47b922f65.png" height="400px" width="400px"> 
 
 
-2. 댐핑을 키울 때
+**2. 댐핑을 키울 때**
 
 <img src = "https://user-images.githubusercontent.com/108641325/211495068-5d2dd1d9-9fc5-4b1b-9988-853c858f931f.png" height="400px" width="400px"> 
 
 
-3. back emf 상수 및 토크 상수를 키울 때
+**3. back emf 상수 및 토크 상수를 키울 때**
 
 <img src = "https://user-images.githubusercontent.com/108641325/211495639-4c76d3a7-fa74-4213-9d1a-98c602064d26.png" height="400px" width="400px">
 
